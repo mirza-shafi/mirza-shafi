@@ -42,20 +42,6 @@ Strong commitment to building reliable, intelligent, and production-ready soluti
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirza-shafi&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mirza-shafi&theme=tokyonight" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mirza-shafi&theme=tokyonight" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mirza-shafi&theme=tokyonight" />
-</p>
-
-
----
-
-## ⭐ GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirza-shafi&theme=radical&hide_border=true" />
-</p>
 
 ---
 
