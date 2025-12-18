@@ -11,36 +11,13 @@ AI Engineering Intern @ Mevrik | Aspiring AI Engineer | Backend Developer | CSE 
 
 ## 👨‍💻 About Me
 
-I am a **Computer Science graduate** with strong experience in **backend engineering** and hands-on **industry exposure to Artificial Intelligence**.
+I am currently working as an AI Engineering Intern at Mevrik.  
+Computer Science graduate with a strong foundation in backend engineering.  
+Professional experience with FastAPI, Django, and Express.js.  
+Hands-on work in AI/ML model development, data preparation, and evaluation.  
+Active involvement in integrating AI components with secure, scalable backend systems.  
+Strong commitment to building reliable, intelligent, and production-ready solutions.
 
-- 🤖 **AI Engineering Intern at Mevrik**
-- ⚙️ Backend experience with **FastAPI, Django, Express.js**
-- 🔐 Experienced in **authentication systems, REST APIs, and scalable architectures**
-- 📊 Actively working with **AI/ML models and data-driven systems**
-- 🚀 Passionate about building **secure, intelligent, and production-ready applications**
-
----
-
-## 💼 Professional Experience
-
-### 🤖 AI Engineering Intern — **Mevrik**
-**Present**
-
-- Working on real-world **AI/ML-driven solutions**
-- Assisting with **data preparation, model experimentation, and evaluation**
-- Integrating **AI components with backend services**
-- Learning **industry-grade AI workflows and deployment practices**
-
----
-
-## 🧠 Current Focus
-
-- Artificial Intelligence & Machine Learning  
-- Data Analysis & Model Development  
-- Backend + AI Integration  
-- Secure & Scalable System Design  
-
----
 
 ## 🛠️ Languages & Tools
 
