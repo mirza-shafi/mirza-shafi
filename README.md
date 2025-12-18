@@ -48,7 +48,7 @@ Strong commitment to building reliable, intelligent, and production-ready soluti
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link-here">
+  <a href="https://www.linkedin.com/in/mirza-shafi/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/mirza-shafi">
@@ -57,7 +57,7 @@ Strong commitment to building reliable, intelligent, and production-ready soluti
   <a href="mailto:mirza.md.shafi.uddin@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/your-facebook-username">
+  <a href="https://www.facebook.com/mirza.md.shafi">
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" />
   </a>
 </p>
