@@ -21,8 +21,8 @@ Strong commitment to building reliable, intelligent, and production-ready soluti
 
 ## 🛠️ Languages & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,fastapi,django,nodejs,express,postgres,mysql,mongodb,redis,docker,git,github,linux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,react,nextjs,nodejs,express,fastapi,django,tensorflow,pytorch,sklearn,mongodb,postgres,mysql,git,github,docker,linux,aws" />
 </p>
 
 ---
@@ -61,9 +61,21 @@ Strong commitment to building reliable, intelligent, and production-ready soluti
 
 ## 📫 Contact Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/your-link-here
-- 🧑‍💻 GitHub: https://github.com/mirza-shafi
-- 📧 Email: mirza.md.shafi.uddin
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-link-here">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/mirza-shafi">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:mirza.md.shafi.uddin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/your-facebook-username">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
