@@ -71,13 +71,6 @@ I am a **Computer Science graduate** with strong experience in **backend enginee
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mirza-shafi&theme=tokyonight" />
 </p>
 
----
-
-## 🔥 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mirza-shafi&theme=tokyo-night&hide_border=true" />
-</p>
 
 ---
 
