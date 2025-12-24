@@ -30,8 +30,8 @@ Strong commitment to building reliable, intelligent, and production-ready soluti
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mirza-shafi&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirza-shafi&layout=compact&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mirza-shafi&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mirza-shafi&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
