@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mirza Md. Shafi Uddin</h1>
 <h3 align="center">
-AI Engineering Intern @ Mevrik | Aspiring AI Engineer | Backend Developer | CSE Graduate
+AI Agent and LLM Intern @ Mevrik | Aspiring AI Engineer | Backend Developer | CSE Graduate
 </h3>
 
 <p align="center">
