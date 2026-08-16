@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mirza Md. Shafi Uddin</h1>
 <h3 align="center">
-AI Engineer | Backend Developer | CS Graduate @ BRAC University
+AI Engineer | Production RAG & LLM Systems | Multi-Agent Automation | LangGraph · n8n · FastAPI
 </h3>
 
 <p align="center">
