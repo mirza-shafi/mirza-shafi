@@ -11,9 +11,10 @@ AI Engineer | Production RAG & LLM Systems | Multi-Agent Automation | LangGraph 
 </p>
 
 ---
+
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing a Professional Master's in Artificial Intelligence and Data Engineering at University of Dhaka 
+- 🎓 Pursuing a Professional Master's in Artificial Intelligence and Data Engineering at University of Dhaka
 - 🎓 Computer Science graduate from BRAC University
 - 💼 Currently working as an AI & Backend Developer @ Autofy Solutions (since June 2026)
 - 🤖 Former AI Agent & LLM Intern @ Mevrik — built autonomous AI agents, real-time voice agents, and production RAG pipelines
@@ -22,6 +23,7 @@ AI Engineer | Production RAG & LLM Systems | Multi-Agent Automation | LangGraph 
 - ⚙️ Experienced in FastAPI, LangGraph, CrewAI, and n8n Workflow Automation
 - 🐳 Proficient in Docker, AWS, and deploying scalable, containerized backend services
 - ✅ Completed the AI Engineering Bootcamp (Ostad) — Agentic AI, RAG reliability, and SLM fine-tuning (July 2026)
+
 ---
 
 ## 🛠️ Tech Stack
@@ -165,7 +167,7 @@ AI Engineer | Production RAG & LLM Systems | Multi-Agent Automation | LangGraph 
 
 ## 🎯 Career Objective
 
-My goal is to become a skilled AI Engineer by combining strong backend engineering expertise with LLM integration, multi-agent systems, and production RAG pipelines — contributing to impactful and scalable AI-powered products.
+Building on my backend engineering foundation and hands-on experience with production RAG and multi-agent LLM systems at Autofy Solutions, I'm deepening my expertise through a Professional Master's in AI and Data Engineering — with the goal of growing into a specialized AI Engineer who designs and ships reliable, scalable, agentic AI products.
 
 ---
 
