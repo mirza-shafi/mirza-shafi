@@ -11,9 +11,6 @@ AI Engineer | Production RAG & LLM Systems | Multi-Agent Automation | LangGraph 
 </p>
 
 ---
-
-## 👨‍💻 About Me
-
 ## 👨‍💻 About Me
 
 - 🎓 Pursuing a Professional Master's in Artificial Intelligence and Data Engineering at University of Dhaka 
